@@ -1,6 +1,6 @@
 # Two Most Recent World Series Rings
 
-> ==We will see you tomorrow night! - Joe Buck==
+> We will see you tomorrow night! - Joe Buck
 
 # *2011*
 | Playoff Series | Opponent | Outcome |
