@@ -4,3 +4,10 @@ Yadier Molina, born on July 13, 1982, in Bayamón, Puerto Rico, has etched his n
 
 Off the field, Yadier Molina has been a beloved figure not only for Cardinals fans but also for the broader baseball community. His dedication to philanthropy, particularly in his native Puerto Rico, where he has supported various charitable causes, reflects his commitment to making a positive impact beyond the diamond. Molina's legacy extends beyond statistics, encompassing a rare combination of defensive excellence, offensive contributions, and a leadership style that has endeared him to teammates and fans alike. As he continues to add to his impressive career, Yadier Molina stands as a paragon of consistency, loyalty, and skill in the world of Major League Baseball.
 
+Read more about Yadier Molina [here](https://www.britannica.com/biography/Yadier-Molina).
+
+You can view our two other Hall of Famers:
+- [Yadier Molina](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AlbertPujols.md)
+- [Adam Wainwright](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AdamWainwright.md)
+
+or proceed back [home](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/README.md).
