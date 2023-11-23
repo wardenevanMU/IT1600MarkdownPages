@@ -15,4 +15,4 @@
 | NLDS | San Diego Padres | St. Louis Cardinals won the series, 3–1. |
 
 <br>
-[Back](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/README.md)
+[Back](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/README.md).
