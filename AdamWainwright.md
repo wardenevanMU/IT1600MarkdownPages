@@ -6,7 +6,7 @@ Beyond his contributions on the field, Adam Wainwright has become a beloved figu
 
 Read more about Adam Wainwright [here](https://en.wikipedia.org/wiki/Adam_Wainwright).
 
-You can view our two other Hall of Famers:
+You can view our two other **Hall of Famers**:
 - [Yadier Molina](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/YadierMolina.md)
 - [Albert Pujols](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AlbertPujols.md)
 
