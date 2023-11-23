@@ -8,6 +8,7 @@
 | World Series | Texas Rangers | St. Louis Cardinals won the series, 4–3. |
 | NLCS | Milwaukie Brewers | St. Louis Cardinals won the series, 4–2. |
 | NLDS | Philidelphia Phillies | St. Louis Cardinals won the series, 3–2. |
+![alt text](davidfreese.jpg)
 
 # *2006*
 | Playoff Series | Opponent | Outcome |
