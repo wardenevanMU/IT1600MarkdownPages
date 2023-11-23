@@ -1,4 +1,4 @@
-# STL Cardinals Legends
+# St. Louis Cardinals Legends
 
 Listed below are three Saint Louis Cardinals Legends. 
 
