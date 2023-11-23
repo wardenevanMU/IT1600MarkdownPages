@@ -18,4 +18,7 @@
 | NLCS | New York Mets | St. Louis Cardinals won the series, 4–3. |
 | NLDS | San Diego Padres | St. Louis Cardinals won the series, 3–1. |
 
+![2006 world series](https://github.com/wardenevanMU/IT1600MarkdownPages/assets/98150291/b69d7c12-6b68-486d-ab7d-8e4068b46c3a)
+
+
 [Back](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/README.md)
