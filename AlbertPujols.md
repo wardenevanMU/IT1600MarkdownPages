@@ -6,7 +6,7 @@ In addition to his incredible offensive prowess, Albert Pujols is widely celebra
 
 Read more about Albert Pujols [here](https://www.britannica.com/biography/Albert-Pujols).
 
-You can view our two other Hall of Famers:
+You can view our two other **Hall of Famers**:
 - [Yadier Molina](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/YadierMolina.md)
 - [Adam Wainwright](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AdamWainwright.md)
 
