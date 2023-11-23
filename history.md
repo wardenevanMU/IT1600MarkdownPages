@@ -9,5 +9,5 @@ For a more extensive breakdown of our history, please visit https://www.mlb.com/
 Now that you know a bit about our history, learn about three of the most iconic and legendary players of our franchise:
 
 - [Albert Pujols](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/AlbertPujols.md)
-- Yadier Molina
-- Adam Wainwright
+- [Yadier Molina](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/YadierMolina.md)
+- [Adam Wainwright](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/AdamWainwright.md)
