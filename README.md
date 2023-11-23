@@ -10,3 +10,6 @@ When you are ready, click through the players to learn about their history and l
 - [Adam Wainwright](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AdamWainwright.md)
 
 Additionally, check out our most recent World Series rings: [Go](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/WorldSeriesRings.md)
+
+![3amigos](https://github.com/wardenevanMU/IT1600MarkdownPages/assets/98150291/e8f774c0-3926-45fe-84fc-6b441d2204ca)
+
