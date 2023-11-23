@@ -4,7 +4,7 @@ Adam Wainwright, born on August 30, 1981, in Brunswick, Georgia, has established
 
 Beyond his contributions on the field, Adam Wainwright has become a beloved figure in the St. Louis community and beyond. His philanthropic efforts, notably through the Big League Impact charity he co-founded, exemplify his commitment to making a positive impact off the field. Wainwright's dedication to humanitarian causes, combined with his on-field success and leadership, has solidified his legacy as one of the most respected and admired figures in the game. As he continues to pitch at a high level well into the latter stages of his career, Adam Wainwright remains a symbol of perseverance, sportsmanship, and community engagement in the world of Major League Baseball.
 
-Read more about Yadier Molina [here](https://en.wikipedia.org/wiki/Adam_Wainwright).
+Read more about Adam Wainwright [here](https://en.wikipedia.org/wiki/Adam_Wainwright).
 
 You can view our two other Hall of Famers:
 - [Yadier Molina](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/YadierMolina.md)
