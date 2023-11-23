@@ -11,3 +11,6 @@ Now that you know a bit about our history, learn about three of the most iconic 
 - [Albert Pujols](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/AlbertPujols.md)
 - [Yadier Molina](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/YadierMolina.md)
 - [Adam Wainwright](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/AdamWainwright.md)
+
+Thanks for learning about our most valued players. 
+[Back](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/README.md)
