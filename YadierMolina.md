@@ -7,7 +7,7 @@ Off the field, Yadier Molina has been a beloved figure not only for Cardinals fa
 Read more about Yadier Molina [here](https://en.wikipedia.org/wiki/Yadier_Molina).
 
 You can view our two other Hall of Famers:
-- [Yadier Molina](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AlbertPujols.md)
+- [Albert Pujols](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AlbertPujols.md)
 - [Adam Wainwright](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/AdamWainwright.md)
 
 or proceed back [home](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/README.md).
