@@ -14,4 +14,4 @@ Now that you know a bit about our history, learn about three of the most iconic 
 
 Thanks for learning about our most valued players. 
 <br>
-[Back](https://github.com/wardenevanMU/IT1600MarkdownPages/edit/Master/README.md)
+[Back](https://github.com/wardenevanMU/IT1600MarkdownPages/blob/Master/README.md)
